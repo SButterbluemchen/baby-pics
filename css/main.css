@@ -944,7 +944,7 @@ form {
 
 .about-main {
   height: 100vh;
-  background: url(img/photo-home-about.jpeg) 100% no-repeat fixed;
+  background: url(../img/photo-home-about.jpeg) 100% no-repeat fixed;
   background-size: cover;
   background-position: 0% 30%;
   display: flex;
