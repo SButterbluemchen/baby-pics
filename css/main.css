@@ -26,6 +26,10 @@ p {
   line-height: 1.4em;
 }
 
+.button {
+  margin-top: 1em;
+}
+
 /*
  * Remove text-shadow in selection highlight:
  * https://twitter.com/miketaylr/status/12228805301
@@ -333,7 +337,7 @@ nav li a:hover {
 .contact-button {
   background: #BF8C8C;
   border-radius: 2em;
-  padding: 0.5em 1em;
+  padding: 0.6em 1em;
   text-align: center;
 }
 
@@ -573,7 +577,7 @@ h3 {
   border-radius: 2em;
   text-align: center;
   color: #BF8C8C;
-  padding: 0.7em 1em;
+  padding: 0.6em 1em;
   margin-top: 1.5em;
 }
 
